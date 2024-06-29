@@ -11,3 +11,6 @@ Key Features:
 - Custom data generator for efficient data handling and preprocessing.
 - Integration with deep learning models for image captioning.
 - Supports batching and shuffling to enhance model training.
+- The Used DataSet (Flickr Image dataset , Flickr 8k Dataset) : https://www.kaggle.com/datasets/adityajn105/flickr8k , https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
+
+
